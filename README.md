@@ -10,5 +10,5 @@ Plugin WordPress Didático de Cadastro de Escolas para compartilhar com a comuni
 * style-admin.css
 
 # Apresentações
-* Semana Acadêmica Faculdade JK Taguatinga
-* FLISOL DF 2015
+* Semana Acadêmica Faculdade JK Taguatinga - 23/04/2015
+* FLISOL DF 2015 - 25/04/2015
