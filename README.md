@@ -1,2 +1,2 @@
 # crudescolas
-Plugin Didático de Cadastro de Escolas para compartilhar com a comunidade WordPress, apresentações em eventos e treinamentos
+Plugin WordPress Didático de Cadastro de Escolas para compartilhar com a comunidade WordPress, apresentações em eventos e treinamentos. Este plugin visa mostrar a construção básica de um CRUD em um simples plugin WP, sem ajax, sem muitos recursos, mas com explicitando o objeto de banco e métodos de criação de plugins do WP, interação com HTML, CSS e código PHP customizado para o propósito.
